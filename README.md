@@ -9,8 +9,8 @@
 ## Aim:
 
       |- To analyse the data which is the most dangerouns countries in European countries compares with multiple factors. 
-      |-  With the help of DASH: A python web framework for visualization we visualise and compare some of the key factors – 
-      |- like Assaults, thefts, number of the number of robbery and number of intentional Homicide
+       With the help of DASH: A python web framework for visualization we visualise and compare some of the key factors – 
+       like Assaults, thefts, number of the number of robbery and number of intentional Homicide
 
 
 ## Tools/Programming Language Used:
@@ -19,11 +19,12 @@
     |- Python 3.8
 
 ### Libraries Used:
-dash 
-dash_core_components
-dash_html_components
-plotly
-pandas
+
+ |- dash 
+ |- dash_core_components
+ |- dash_html_components
+ |-  plotly
+ |-  pandas
 
 
 ### Arborescence:
