@@ -26,11 +26,8 @@
 
 ### Arborescence:
 
-    Aalysis_of_EU_data
-
+    Analysis_of_EU_data
     |- datasets 
-    
-       |- [All Datasets]
           |- Assaults_Ratio_in_EU_2010_2018.csv
           |- Intentional_Homicide_Ratio_in_EU_2008_2018.csv
           |- Ratios_vs_pop.csv
