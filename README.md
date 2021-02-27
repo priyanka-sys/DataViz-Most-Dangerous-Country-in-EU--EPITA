@@ -27,12 +27,17 @@ pandas
 ### Arborescence:
 
 |- Analysis_of_EU_data
+
     |- datasets 
+    
         |- [All Datasets]
+        
         |- Assaults_Ratio_in_EU_2010_2018.csv
         |- Intentional_Homicide_Ratio_in_EU_2008_2018.csv
         |- Ratios_vs_pop.csv
+        
         |- Robbery_Ratio_in_EU_2008_2018.csv
+        
         |- theft_of_motorized_land_vehicle_Ratio_in_EU_2008_2018.csv
     |- most_dangerous_countries_in_Eu_2.py
 
