@@ -3,12 +3,12 @@
 
 ### Authors:
 
-# Priyanka Kumar (Data Science and Analytics)
-# Vivien Bogne tienoue (Data Science and Analytics)
+ Priyanka Kumar (Data Science and Analytics)
+ Vivien Bogne tienoue (Data Science and Analytics)
 
 ### Aim:
 
-To analyse the data which is the most dangerouns countries in European countries compares with multiple factors. With the help of DASH: A python web framework for visualization we visualise and compare some of the key factors – like Assaults, thefts, number of the number of robbery and number of intentional Homicide
+  To analyse the data which is the most dangerouns countries in European countries compares with multiple factors. With the help of DASH: A python web framework for visualization we visualise and compare some of the key factors – like Assaults, thefts, number of the number of robbery and number of intentional Homicide
 
 
 ### Tools/Programming Language Used:
@@ -24,17 +24,19 @@ plotly
 pandas
 
 
-
 ### Arborescence:
-Arborescence:
+
 |- Analysis_of_EU_data
     |- datasets 
         |- [All Datasets]
-    |- graph_data.py <file for graph declaration>
-    |- runserver.py <entrypoint of application>
-    |- sandbox.py <sandbox code for application>
-    |- summary.py <creation of summary data for interactive chart>
-    |- variables.py <defination of all variables for dataset read>
+        |- Assaults_Ratio_in_EU_2010_2018.csv
+        |- Intentional_Homicide_Ratio_in_EU_2008_2018.csv
+        |- Ratios_vs_pop.csv
+        |- Robbery_Ratio_in_EU_2008_2018.csv
+        |- theft_of_motorized_land_vehicle_Ratio_in_EU_2008_2018.csv
+    |- most_dangerous_countries_in_Eu_2.py
+
+
   europea.eu
 Usage:
 $ python runserver.py
