@@ -1,21 +1,22 @@
 #  Analysis of Most Dangerous Country in European Countries 
-### Data Visualization Final Project
+## Data Visualization Final Project
 
-### Authors:
+## Authors:
 
      |- Priyanka Kumar (Data Science and Analytics)
-     
-      - Vivien Bogne tienoue (Data Science and Analytics)
+     |- Vivien Bogne tienoue (Data Science and Analytics)
 
-### Aim:
+## Aim:
 
-    |- To analyse the data which is the most dangerouns countries in European countries compares with multiple factors. With the help of DASH: A python web framework for visualization we visualise and compare some of the key factors – like Assaults, thefts, number of the number of robbery and number of intentional Homicide
+      |- To analyse the data which is the most dangerouns countries in European countries compares with multiple factors. 
+      |-  With the help of DASH: A python web framework for visualization we visualise and compare some of the key factors – 
+      |- like Assaults, thefts, number of the number of robbery and number of intentional Homicide
 
 
-### Tools/Programming Language Used:
+## Tools/Programming Language Used:
 
-Pycharm 2019.3.5
-Python 3.8
+    |- Pycharm 2019.3.5
+    |- Python 3.8
 
 ### Libraries Used:
 dash 
