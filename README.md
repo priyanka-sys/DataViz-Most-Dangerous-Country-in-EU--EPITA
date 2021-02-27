@@ -9,8 +9,7 @@
 ## Aim:
 
     To analyse the data which is the most dangerouns countries in European countries compares with multiple factors. 
-    With the help of DASH: A python web framework for visualization we visualise and compare some of the key factors 
-    – like Assaults, thefts, number of the number of robbery and number of intentional Homicide
+    With the help of DASH: A python web framework for visualization we visualise and compare some of the key factors – like Assaults, thefts, number of the number of robbery       and number of intentional Homicide
 
 
 ## Tools/Programming Language Used:
@@ -35,7 +34,7 @@
           |- Ratios_vs_pop.csv
           |- Robbery_Ratio_in_EU_2008_2018.csv
           |- theft_of_motorized_land_vehicle_Ratio_in_EU_2008_2018.csv
-       |- EPITA_DataViz_Most-Dangerous-Country-in-EU.py
+    |- EPITA_DataViz_Most-Dangerous-Country-in-EU.py
 
  
 ### Usage:
