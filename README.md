@@ -3,8 +3,8 @@
 
 ## Authors:
 
-     |- Priyanka Kumar (Data Science and Analytics)
-     |- Vivien Bogne tienoue (Data Science and Analytics)
+       Priyanka Kumar (Data Science and Analytics)
+       Vivien Bogne tienoue (Data Science and Analytics)
 
 ## Aim:
 
