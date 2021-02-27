@@ -39,4 +39,8 @@
 
  
 ### Usage:
-              europea.eu
+    $ python runserver.py
+    
+### GitHub:
+
+     https://github.com/priyanka-sys/EPITA_DataViz_Most-Dangerous-Country-in-EU
